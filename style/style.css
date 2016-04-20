@@ -5,3 +5,11 @@
 form a {
   margin-left: 5px;
 }
+
+li {
+  margin: 5px;
+
+  -webkit-box-shadow: 4px 4px 6px 0px rgba(0,0,0,0.39);
+  -moz-box-shadow: 4px 4px 6px 0px rgba(0,0,0,0.39);
+  box-shadow: 4px 4px 6px 0px rgba(0,0,0,0.39);
+}
